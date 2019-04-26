@@ -1,5 +1,3 @@
-include Makefile.ledger
-
 all: install
 
 install: go.sum
